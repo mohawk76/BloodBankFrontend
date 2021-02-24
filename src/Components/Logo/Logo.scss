@@ -1,0 +1,17 @@
+.logo {
+  padding: 5px;
+  box-sizing: border-box;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  background-color: #cf2e2e;
+  max-width: 250px;
+  &--main {
+    font-weight: 600;
+    font-size: 4rem;
+  }
+  &--sub {
+    font-weight: 600;
+    font-size: 1.8rem;
+  }
+}
